@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SideMenu",
+        "repositoryURL": "https://github.com/SoundcloudUnofficialApp/SideMenu",
+        "state": {
+          "branch": null,
+          "revision": "57b178d941cef10f8310bd69191e5591ba5590c6",
+          "version": "6.2.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
